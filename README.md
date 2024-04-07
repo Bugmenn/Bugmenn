@@ -5,8 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugmenn&layout=compact&theme=github_dark&border_color=0a4ca3&locale=pt-br)
 
 <div>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Bugmenn&show_icons=true&theme=github_dark&border_color=0a4ca3&locale=pt-br"/>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugmenn&layout=compact&theme=github_dark&border_color=0a4ca3&locale=pt-br"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Bugmenn&show_icons=true&theme=github_dark&border_color=0a4ca3&locale=pt-br"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugmenn&layout=compact&theme=github_dark&border_color=0a4ca3&locale=pt-br"/>
 </div>
 
 ## Conhecimento
